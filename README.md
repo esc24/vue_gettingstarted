@@ -1,5 +1,10 @@
 Getting started examples for Vue.js (see https://vuejs.org/v2/guide/#Getting-Started) bundled using locally installed *parcel* and *yarn*.
 
+Install dependencies using:
+```
+yarn install
+```
+
 Start using:
 ```
 yarn dev
